@@ -58,12 +58,13 @@ header{
     // margin: 0;
 
     .logo{
-        // position: relative;
-        margin: 0.51rem 1rem 0.5rem 4rem;
-        width: 6rem;
-        height: 5rem;
-        background: url('./logo.jpeg') no-repeat;
-        background-size: 6rem 5rem;
+        position: relative;
+        width: 10rem;
+        height: 6rem;
+        img{
+            width: 10rem;
+            height: 6rem;
+        }
     }
     
     .navbar li{
