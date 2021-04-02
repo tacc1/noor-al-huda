@@ -173,6 +173,7 @@ header .navbar li a:hover {
   background: url("./wheat-field.jpg") no-repeat;
   background-size: 100vw 100vh;
   font-size: 1rem;
+  margin-top: 1rem;
 }
 
 .about .about-inner {
