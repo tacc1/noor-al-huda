@@ -143,6 +143,7 @@ header .navbar li a:hover{
             
             .col-md{
                 padding: 1rem;
+                transition: all 600ms ease;
 
                 .card-body{
                     display: flex;
@@ -153,6 +154,13 @@ header .navbar li a:hover{
                         font-weight: 600;
                     }
                 }
+                
+            }
+            .col-md:hover{
+                @include hoverfunc;
+                opacity: 1;
+                box-shadow: none;
+                transform: scale(1.05);
             }
         }
     }

@@ -138,6 +138,8 @@ header .navbar li a:hover {
 
 .product .container .row .col-md {
   padding: 1rem;
+  -webkit-transition: all 600ms ease;
+  transition: all 600ms ease;
 }
 
 .product .container .row .col-md .card-body {
@@ -158,6 +160,20 @@ header .navbar li a:hover {
 
 .product .container .row .col-md .card-body h5 {
   font-weight: 600;
+}
+
+.product .container .row .col-md:hover {
+  color: #e74c3c;
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+  opacity: 0.6;
+  -webkit-box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.253);
+          box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.253);
+  opacity: 1;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
 }
 
 .about {

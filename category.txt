@@ -1,0 +1,24 @@
+meat
+	lamb/mutton beaf chicken
+seafood
+	fresh trevally, hamour fillet fresh, seas bass, kofer fish, sultan ibrahim, king fish,
+	tuna, lobster, crabs, shrimps, barracuda, baramundi, salmon, cat fish, black pomfret, sherri, rohu
+	tilapia
+
+vegtables
+	green beans, potato, okra, green peas, carrot, tomato, onion garlic, cabbage, eggplant, mushroom
+	broccoli, cauliflower, corn, olives, pumpkin, spring onion
+
+dairy
+	milk butter cheese yogurt cream
+
+pulses and spices
+	cumin seed, chilli, turmuric powder, fennel seed, 
+	split geen gram/green gram, split black gram/black gram, red lentil, split red lentils,
+	 black eyed beans, kidney beans, white peas, chickpeas, black chickpeas
+
+rice
+	basmati steam rice, basmati raw rice, b. white sella, b. golden sella,
+	long brown, arabian
+	
+	
